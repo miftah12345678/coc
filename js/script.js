@@ -291,6 +291,6 @@ downloadButton.addEventListener("click", () => {
   const outputImg = document.getElementById("generatedImage");
   const link = document.createElement("a");
   link.href = outputImg.src;
-  link.download = "clash_of_timpa.png";
+  link.download = "follow IG @ughbmm.png";
   link.click();
 });
